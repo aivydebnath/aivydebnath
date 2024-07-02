@@ -22,19 +22,19 @@ Index 📑
 🌱 Certifications and Credentials
 🏗️ Projects
 📫 Contact Info
-🛠️ My Skills
+
+## 🛠️ My Skills
+
 I have expertise in the following:
 
 Programming Languages: Python, Java, R, SQL 🎓
-Big Data Technologies: Spark, PySpark, Scala, Datalake, Teradata, Hive, DB, etc. 🚀
-Python Libraries: pandas, NumPy, PySpark, BeautifulSoup, etc. 🐍
-Web Scraping: BS4, codecs, glob, sqlite3 shutil, lxml, json, etc. 🕸️
-Web Frameworks: React and Flask, Jinja3 with Python 💻
-Cloud Services: AWS, GCP, Azure ☁️
-Cloud Computing: Databricks 🚀
-BI Tools: Tableau, Power BI, Plotly 📈
-Operating Systems: Windows, Linux, and macOS 💻
-🌱 Certifications and Credentials
+Python Libraries: pandas, NumPy, PySpark, BeautifulSoup, Spacy, etc. 🐍
+Web Scraping: BS4, shutil, lxml, json, etc. 🕸️
+Cloud Services: Azure ☁️
+BI Tools: Tableau, Power BI, Plotly, Tableau 📈
+Operating Systems: Windows and Linux 💻
+
+## 🌱 Certifications and Credentials
 I have accomplished the following credentials:
 
 📝 Check out my DataCamp Portfolio for some of my data science and analytics projects
