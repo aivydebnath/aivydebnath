@@ -28,19 +28,21 @@ Index 📑
 I have expertise in the following:
 
 Programming Languages: Python, Java, R, SQL 🎓
+
 Python Libraries: pandas, NumPy, PySpark, BeautifulSoup, Spacy, etc. 🐍
+
 Web Scraping: BS4, shutil, lxml, json, etc. 🕸️
+
 Cloud Services: Azure ☁️
+
 BI Tools: Tableau, Power BI, Plotly, Tableau 📈
+
 Operating Systems: Windows and Linux 💻
 
+
 ## 🌱 Certifications and Credentials
+
 I have accomplished the following credentials:
 
-📝 Check out my DataCamp Portfolio for some of my data science and analytics projects
-📝 Check out my Codecademy for some of my Full stack web developer
-🔘 Check out my credentials in learning journey:
-Credly
-Google Cloud Platform & Databricks
-Azure AZ-204
-LinkedIn
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="047e8042-d868-42f3-819b-9607ed0d609c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+AZ-100
