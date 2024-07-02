@@ -44,5 +44,6 @@ Operating Systems: Windows and Linux 💻
 
 I have accomplished the following credentials:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="047e8042-d868-42f3-819b-9607ed0d609c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="047e8042-d868-42f3-819b-9607ed0d609c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/047e8042-d868-42f3-819b-9607ed0d609c/public_url)
+
 AZ-100
